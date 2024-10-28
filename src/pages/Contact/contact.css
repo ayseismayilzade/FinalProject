@@ -1,0 +1,117 @@
+.about-us{
+    height: 300px;
+}
+.a-h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 200;
+    margin-left: 800px;
+    padding-top: 100px;
+}
+.orange{
+    color:  rgba(255, 166, 0, 0.815);
+    width: 25px;
+    height: 25px;
+}
+.p-a-l-c{
+    display: flex;
+    flex-direction: row;
+    margin-left: 797px;
+    margin-top: 25px;
+    font-weight: 100;
+    font-size: 17px;
+}
+.p-a-l-c{
+    font-size: 25px;
+    margin-left: 820px;
+    text-shadow: 0px 0px 15px rgb(252, 164, 0);
+}
+.p-a{
+    font-size: 17px;
+    font-weight: 100;
+     color:  rgba(255, 166, 0, 0.815);
+
+}
+.h4-c{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
+.send-c{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+.div-1-1{
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    padding-top: 120px;
+    margin-left: 250px;
+}
+.div-1-contact{
+    background-color: rgba(0, 0, 0, 0.728);
+    width: 100%;
+}
+.input-name{
+    background-color: transparent;
+    color: white;
+    border: 1px solid gray;
+    width: 500px;
+    height: 60px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.input-name:hover{
+    border: 1px solid  rgba(255, 132, 0, 0.815);
+}
+.div-1-2{
+    position: relative;
+    left: 1000px;
+    bottom: 650px;
+} 
+.input-message{
+    background-color: transparent;
+    color: white;
+    border: 1px solid gray;
+    width: 500px;
+    height: 200px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px; 
+}
+
+.input-message:hover{
+    border: 1px solid  rgba(255, 132, 0, 0.815);
+}
+.button-c{
+   background-color: rgba(255, 166, 0, 0.815);
+   border: 0;
+   width: 180px;
+   height: 50px;
+   margin-top: 40px;
+}
+.form-c{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.map-c{
+    position: relative;
+    bottom: 500px; 
+    filter: grayscale(100%); /* Siyah beyaz efekti */
+    transition: filter 0.5s ease; /* Efektin yumuşak geçişi için */
+}
+
+
+.map-c:hover {
+    filter: grayscale(0%);
+}
+
+.div-umumi-contact{
+    margin-bottom: -700px;
+}  
+

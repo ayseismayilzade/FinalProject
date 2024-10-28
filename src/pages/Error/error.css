@@ -1,0 +1,55 @@
+.error-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+flex-direction: column;
+gap: 10px;
+position: relative;
+bottom: 490px;
+left: 150px;
+background-color: rgba(0, 0, 0, 0.767);
+   width: 900px;
+    height: 500px;
+}
+.h1-er{
+    color: orange;
+    font-size: 70px;
+    font-weight: 600;
+}
+.img-er{
+    position: relative;
+    left: 70;
+    top: 150px;
+    width: 1200px;
+    
+}
+
+.p-er{
+    font-size: 20px;
+}
+.button-er{
+    border: 3px solid orange;
+    background-color: transparent;
+    width: 300px;
+    height: 50px;
+   
+}
+.button-er:hover{
+    background-color:rgba(255, 166, 0, 0.589) ;
+}
+.link-er{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.div-er-umumi{
+    background-color: rgba(0, 0, 0, 0.308);
+    width: 1500px;
+    height: 1000px;
+    display: flex;
+  align-items: center;
+ justify-content: center;
+ margin-top: 200px;
+ padding-top: 190px;
+}

@@ -1,0 +1,7 @@
+.map{
+    filter: grayscale(100%); /* Siyah beyaz efekti */
+    transition: filter 0.5s ease; /* Efektin yumuşak geçişi için */
+}
+.map:hover{
+    filter: grayscale(0%);
+}

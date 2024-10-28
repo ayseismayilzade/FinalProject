@@ -1,0 +1,244 @@
+.divh5{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.section3{
+    height: auto;
+    padding-top: 200px;
+    margin-top: -500px;
+    margin-bottom: -100px;
+    background-color: rgba(0, 0, 0, 0.806);
+    .h55{
+        color: rgba(255, 166, 0, 0.815);
+    }
+    .h2-orange{
+        color: rgba(255, 166, 0, 0.815);
+        text-shadow: 0px 0px 15px rgb(255, 166, 0);
+        
+    }
+}
+.section3.light{
+    background-color: rgba(118, 116, 116, 0.274);
+    .h22-orange{
+        color:#f9e79f ;}
+        .spanorange{
+            color:#f9e79f ;} 
+            .rosset{
+                color: #f9e79f;
+            }  
+            .circle{
+                color: #f9e79f;
+             }
+             .button2{
+                background-color: #f9e79f;
+                box-shadow: 0px 0px 15px #fadd6b;
+             }
+             .button2:hover{
+                background-color: #fadd6b;
+              }
+              .text-circle{
+                color: white
+              }
+              .p2{
+                color: white;
+              }
+              .h55{
+                color: #f9e79f;
+              }
+              .h2-orange{
+                color: #f9e79f;
+              }
+              .transparent-div2{
+                border-right: 1px solid rgb(0, 0, 0) ;
+            }
+              .div-transparent{
+                border: 5px solid rgb(0, 0, 0);
+                background-color: #f9e79f36;
+                .p-t{
+                    color: black;
+                }
+                .h2-t{
+                    text-shadow: 0px 0px 15px #fadd6b;
+                }
+              }
+              p{
+                text-shadow: 0px 0px 15px #fadd6b;
+              }
+              .h11{
+                text-shadow: 0px 0px 15px #fadd6b;
+              }
+              .h22{
+                text-shadow: 0px 0px 15px #fadd6b;
+              }
+              .h55{
+                color: #f9e79f;
+                text-shadow: 0px 0px 25px #fadd6b;
+              }
+              .h2-orange{
+                color: #f9e79f;
+                text-shadow: 0px 0px 25px #fadd6b;
+              }
+              .h22-orange{
+                text-shadow: 0px 0px 25px #fadd6b;
+              }
+
+}
+.listone{
+    margin-left: 250px;
+  
+}
+.divfoto{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+
+.h22-orange{
+    color:rgba(20, 19, 18, 0.815) ;
+    font-size: 50px;
+    position: relative;
+    left: 1200px;
+    bottom: 600px;
+    text-shadow: 0px 0px 15px rgb(255, 166, 0);
+}
+.p2{
+    color:gray ;
+    font-size: 15px;
+    margin-left: 13px;
+ 
+  
+  
+}
+.p-div{
+    position: relative;
+    left: 1000px;
+    bottom: 570px;
+}
+.spanorange{
+    color: rgba(255, 166, 0, 0.815);
+    font-size: 40px;
+    text-shadow: 0px 0px 15px rgb(255, 166, 0);
+}
+.div-qutu{
+    position: relative;
+    left: 1000px;
+    bottom: 550px;
+   border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+body, html, #root {
+    height: 100%;
+    margin: 0;
+  }
+.rosset{
+    width: 45px;
+    height: 45px;
+    padding-top: 10px;
+    color: orange;
+}  
+.h12{
+    font-size: 45px;
+    color: white;
+   
+   
+};
+  
+.circle{
+   color: orange;
+    width: 30px;
+    height: 30px;
+    
+
+}
+.div-circle{
+    position: relative;
+    left: 1240px;
+    bottom: 900px;
+}
+.text-circle{
+    color: gray;
+    font-size: 15px;
+    
+}
+.button2{
+    position: relative;
+    left: 1043px;
+    bottom: 670px;
+    font-size: 23px !important;
+    margin-top: 40px;
+    background-color: rgba(255, 166, 0, 0.815);
+    width: 200px !important;
+    height: 60px !important;
+    border-radius: 6px;
+    color: black;
+   padding-top: 5px;
+   padding-left: 15px;
+   margin-top: 155px !important;
+   margin-left: -43px;
+   border: 5px solid black !important;
+   box-shadow: 0px 0px 15px rgb(255, 166, 0);
+
+}
+.button2:hover{
+    background-color: rgba(255, 132, 0, 0.815);
+  }
+.text-us{
+    text-decoration: none;
+    color: black;
+}
+.h2-t{
+    font-size: 25px;
+    color: white;
+    padding-right: 30px;
+    text-shadow: 0px 0px 15px rgb(255, 166, 0);
+}
+.p-t{
+    color: gray;
+    font-size: 13px;
+ 
+}
+
+.div-transparent{
+    position: relative;
+    bottom: 600px;
+    left: 200px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin-left: 100px;
+    width: 1200px;
+    height: auto;
+    background-color:rgba(255, 255, 255, 0.082);
+    padding-left: 30px;
+    padding-top: 20px;
+    border: 5px solid rgb(255, 166, 0);
+   
+
+}
+.transparent-div3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+  
+}
+.transparent-div2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-right: 1px solid gray ;
+}
+.div-colum{
+    display: flex;
+    flex-direction: column;
+}

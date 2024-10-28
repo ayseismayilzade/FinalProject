@@ -1,0 +1,219 @@
+{
+    "Header": {
+        "0": "Home",
+        "1": "About",
+        "2": "Shop",
+        "3": "Contact",
+        "4": "Pages",
+        "5": "Login",
+        "6": "Dark",
+        "7": "Cart"
+
+    } ,
+    "Section1":{
+        "0":"New Release Guitars 2024",
+        "1":"Jbanez New Series",
+        "2":"Paul Timmons",
+        "3":"Signature",
+        "4":"Guitars are versatile musical instruments that come in various styles,",
+        "5":"from acoustic to electric, and are used across many genres of music. ",
+        "6":"Specification",
+        "7":"Guitars are versatile musical instruments that come in various styles, including acoustic, electric,",
+        "8":"and classical, each offering unique sounds and playing experiences,",
+        "9":"making them popular among musicians of all genres.",
+        "10":"About Us"
+
+        
+    },
+    "Section3":{
+        "0":"About Jbanez",
+        "1":"We Are The Best",
+        "2":"We Are The Best",
+        "3":"Guitars Store",
+        "4":"In Town",
+        "5":"Guitars are versatile musical instruments that come in various shapes and sizes,",
+        "6":"allowing musicians to express a wide range of emotions and styles,",
+        "7":"from the soothing sounds of acoustic guitars in folk music to the electrifying",
+        "8":"riffs of electric guitars in rock and jazz, ",
+        "9":"making them a staple in countless genres around the world.",
+        "10":"Years Experience",
+        "11":"About Us",
+        "12":"Certified",
+        "13":"Best Quality",
+        "14":"Official Guarantee",
+        "15":"Official Permission",
+        "16":"Fast Shipping",
+        "17":"Order Over $1,000.00",
+        "18":"Big Cashback",
+        "19":"Over 40% Cashback",
+        "20":"Quick Payment",
+        "21":"100% Secure",
+        "22":"24/7 Support",
+        "23":"Ready For You"
+        
+    },
+    "Footer":{
+        "0":"Acoustic guitars produce sound naturally through their",
+        "1":"hollow bodies, while electric guitars require an",
+        "2":"amplifier to project sound.",
+        "3":"Other Pages",
+        "4":"Home",
+        "5":"About Us",
+        "6":"Shop",
+        "7":"Contact",
+        "8":"Blog",
+        "9":"Quick Link",
+        "10":"Returns & Refunds",
+        "11":"Order Tracking",
+        "12":"Checkout",
+        "13":"Careers",
+        "14":"Cart",
+        "15":"09 AM - 10 PM , Monday - Saturday"
+        
+    },
+    "SupsCribe":{
+        "0":"SupsCribe Our",
+        "1":"Newsletter",
+        "2":"There are various types of guitars, including acoustic, electric, and classical.",
+        "3":"Your Email",
+        "4":"Subscribe"
+    },
+    "FAQ":{
+        "0":"What questions should I ask a guitarist?",
+        "1":"You can ask about their inspiration, technique, gear, songwriting process, and memorable performances.",
+        "2":"Which credit card do you accept?",
+        "3":"We accept Visa, MasterCard, American Express, and Discover.",
+        "4":"How long will it be before I get a refund?",
+        "5":"Refunds typically take 5-7 business days to process, depending on your payment method.",
+        "6":"How Many Types of guitars are there?",
+        "7":"There are several types of guitars including acoustic, electric, bass, classical, and resonator guitars."
+
+    },
+    "AboutSection1":{
+        "0":"About Us",
+        "1":"Home",
+        "2":"About",
+        "3":"About Jbanez",
+        "4":"We Are The Best",
+        "5":"Guitars Store",
+        "6":"Since",
+        "7":"Guitars are versatile musical instruments that come in various shapes and sizes,",
+        "8":"allowing musicians to express a wide range of emotions and styles,",
+        "9":"from the soothing sounds of acoustic guitars in folk music to the electrifying",
+        "10":"riffs of electric guitars in rock and jazz, ",
+        "11":"making them a staple in countless genres around the world.",
+        "12":"Years Experience",
+        "13":"About Us",
+        "14":"Certified",
+        "15":"Best Quality",
+        "16":"Official Guarantee",
+        "17":"Official Permission",
+        "18":"Best Quality",
+        "19":"Happy Customer",
+        "20":"Best Awards",
+        "21":"Guarantee",
+        "22":"FAQ's",
+        "23":"Customers",
+        "24":"Inquiries",
+        "25":"Our Store",
+        "26":"Contact Info :",
+        "27":"Our Team",
+        "28":"Our Best",
+        "29":"Team",
+        "30":"Manager",
+        "31":"Employee",
+        "32":"Marketing"
+    },
+    "Login":{
+        "0":"Login",
+        "1":"Email Address",
+        "2":"Password",
+        "3":"Login",
+        "4":"Don't have an account?",
+        "5":"Sign up"
+        
+    },
+    "Register":{
+        "0":"Register",
+        "1":"Fullname",
+        "2":"Phone number",
+        "3":"Email address",
+        "4":"Password",
+        "5":"Confirm Password",
+        "6":"Sign Up",
+        "7":"Already have an account?"
+        
+    },
+    "Account":{
+        "0":"Account",
+        "1":"Home",
+        "2":"Fullname",
+        "3":"Phone number",
+        "4":"E-mail",
+        "5":"Log Out"
+            
+    },
+    "ShopSectionOne":{
+        "0":"Shop",
+        "1":"Home",
+        "2":"Shop",
+        "3":"Product Categories"
+    },
+    "Basket":{
+        "0":"Basket Page",
+        "1":"Photo",
+        "2":"Title",
+        "3":"Price",
+        "4":"Quantity",
+        "5":"Delete",
+        "6":"Total price:",
+        "7":"All clear",
+        "8":"Your cart is empty"
+    },
+    "Dashboard":{
+        "0":"Dashboard",
+        "1":"Add",
+        "2":"Image",
+        "3":"Name",
+        "4":"Price",
+        "5":"Edit",
+        "6":"Delete",
+        "7":"Edit",
+        "8":"Delete",
+        "9":"No products available"
+    },
+    "MyAccount":{
+        "0":"Admin account",
+        "1":"Email",
+        "2":"Password",
+        "3":"Login"
+    },
+    "Wishlist":{
+        "0":"Wishlist"
+    },
+    "CheckOut":{
+       "0": "Please fill in all payment details",
+        "1": "Payment",
+        "2": "Name on card",
+        "3": "Email address",
+        "5": "CVV Code",
+        "6": "Expiry date",
+        "10":"Complete the payment"
+
+    },
+    "SuccessPayment":{
+        "0": "Payment Success",
+        "1": "Congratulations! Your payment was successful.",
+        "2": "Continue Shopping"
+    },
+    "FAQ": {
+        "0": "What questions should I ask a guitarist?",
+        "1": "You can ask about their inspiration, technique, gear, songwriting process, and memorable performances.",
+        "2": "Which credit card do you accept?",
+        "3": "We accept Visa, MasterCard, American Express, and Discover.",
+        "4": "How long will it be before I get a refund?",
+        "5": "Refunds typically take 5-7 business days to process, depending on your payment method.",
+        "6": "How many types of guitars are there?",
+        "7": "There are several types of guitars including acoustic, electric, bass, classical, and resonator guitars."
+}}
+

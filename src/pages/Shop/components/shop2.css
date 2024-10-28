@@ -1,0 +1,108 @@
+.filter-shop{
+    box-shadow: 0px 0px 20px orange;
+    border: 3px solid orange;
+    border-radius: 7px;
+}
+
+
+
+.div-shop.light{
+    .container{
+        background-color:#fadd6b3d;
+    }
+    .filter-shop{
+        box-shadow: 0px 0px 25px #fadd6b;
+        border: 3px solid #000000;
+     .list-textt{
+        background-color: #fadd6b;
+     }
+     .button-shop{
+        background-color: #fadd6b86;
+        box-shadow: 0px 0px 10px #fadd6b;
+     }
+     .list-textt:hover{
+        background-color: #fcd432;
+    }
+    .h4-s{
+        color:#fadd6b;
+       text-shadow: 0px 0px 15px #fadd6b;
+      
+    }
+    
+    }
+    .a-h1{
+        color: black !important;
+        text-shadow: 0px 0px 15px #fcd432;
+    }
+    .p-a-l{
+        text-shadow: 0px 0px 15px #fcd432;
+        color: black !important;
+    }
+    .p-a{
+        color: #fadd6b;
+    }
+    .orange{
+        color: #fadd6b;
+    }
+}
+
+.list-textt{
+   color: black;
+   border: 2px solid black;
+   border-radius: 3px;
+   background-color: rgb(252, 164, 0);
+   width: 150px;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   display: flex !important;
+   justify-content: center !important;
+}
+.list-textt:hover{
+    background-color: rgb(207, 132, 2);
+}
+.button-shop{
+    background-color: rgba(255, 166, 0, 0.421);
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    width: 1250px;
+    display: flex !important;
+    justify-content: center !important;
+    box-shadow: 0px 0px 10px orange;
+    
+    
+}
+.div-shop{
+    .container{
+    background-color: rgba(0, 0, 0, 0.477);
+}
+    .p-a-l{
+        text-shadow: 0px 0px 15px rgb(252, 164, 0);
+    }
+    .a-h1{
+      font-size: 50px;
+      margin-left: 860px;
+      text-shadow: 0px 0px 15px rgb(252, 164, 0);
+    }
+        height: auto;
+   
+}
+.h4-s{
+    color: rgb(255, 166, 0);
+   text-shadow: 0px 0px 15px rgb(255, 166, 0);
+   margin-top: 25px;
+   margin-bottom: -15px;
+   margin-left: 20px;
+}
+
+@media (max-width:668px) {
+
+    .button-shop{
+        width: 420px;
+        height: auto;
+    }
+
+    
+}

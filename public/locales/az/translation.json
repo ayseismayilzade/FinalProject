@@ -1,0 +1,226 @@
+{
+    
+        "Header": {
+            "0": "Ana Səhifə",
+            "1": "Haqqımızda",
+            "2": "Mağaza",
+            "3": "Əlaqə",
+            "4": "Səhifələr",
+            "5": "Giriş",
+            "6": "Qaranlıq",
+            "7": "Səbət"
+        },
+    
+    
+    
+        "Section1": {
+            "0": "Yeni Buraxılış Gitaraları 2024",
+            "1": "Jbanez Yeni Seriyası",
+            "2": "Paul Timmons",
+            "3": "İmzalı",
+            "4": "Gitaralar müxtəlif üslublarda olan çox yönlü musiqi alətləridir,",
+            "5": "akustikadan elektrikə qədər, və bir çox musiqi janrlarında istifadə olunur.",
+            "6": "Spesifikasiya",
+            "7": "Gitaralar müxtəlif üslublarda olan çox yönlü musiqi alətləridir, o cümlədən akustik, elektrik,",
+            "8": "və klassik, hər biri özünəməxsus səslər və ifa təcrübələri təqdim edir,",
+            "9": "bu da onları bütün janrlardan musiqiçilər arasında populyar edir.",
+            "10": "Haqqımızda"
+        },
+        
+            "Section3": {
+                "0": "Jbanez Haqqında",
+                "1":"Biz Ən Yaxşıyıq",
+                "2": "Biz Ən Yaxşıyıq",
+                "3": "Gitara Dükanı",
+                "4": "Şəhərdə",
+                "5": "Gitaralar müxtəlif formalarda və ölçülərdə olan çox yönlü musiqi alətləridir,",
+                "6": "musikiçilərə geniş emosiyaları və üslubları ifadə etməyə imkan tanıyır,",
+                "7": "folk musiqisində akustik gitaraların sakit səslərindən rock və cazdakı elektrik gitaraların",
+                "8": "ritmlərinə qədər,",
+                "9": "dünyanın bir çox janrında əsas bir element halına gəlir.",
+                "10": "İllərlə Təcrübə",
+                "11": "Haqqımızda",
+                "12": "Sertifikatlı",
+                "13": "Ən Yüksək Keyfiyyət",
+                "14": "Rəsmi Zəmanət",
+                "15": "Rəsmi İcazə",
+                "16": "Tez Göndərmə",
+                "17": "$1,000.00-dan Yuxarı Sifariş",
+                "18": "Böyük Cashback",
+                "19": "40%-dən Yuxarı Cashback",
+                "20": "Tez Ödəniş",
+                "21": "100% Təhlükəsiz",
+                "22": "24/7 Dəstək",
+                "23": "Sizin Üçün Hazır"
+            },
+                    "Footer": {
+                        "0": "Akustik gitaralar səsi təbii olaraq özlərinin",
+                        "1": "boş gövdələrindən çıxarır, elektrik gitaralar isə",
+                        "2": "səsi ötürmək üçün gücləndirici tələb edir.",
+                        "3": "Digər Səhifələr",
+                        "4": "Ana Səhifə",
+                        "5": "Haqqımızda",
+                        "6": "Mağaza",
+                        "7": "Əlaqə",
+                        "8": "Bloq",
+                        "9": "Sürətli Keçid",
+                        "10": "Qaytarma və Geri Ödəmələr",
+                        "11": "Sifarişin İzlənməsi",
+                        "12": "Yoxlama",
+                        "13": "Karyera",
+                        "14": "Səbət",
+                        "15": "09:00 - 22:00 , Bazar ertəsi - Şənbə"
+                    },
+                    "SupsCribe": {
+                        "0": "Abunə Olun",
+                        "1": "Xəbərlərimizə",
+                        "2": "Gitara növləri müxtəlifdir, akustik, elektrik və klassik daxil olmaqla.",
+                        "3": "E-poçtunuz",
+                        "4": "Abunə Ol"
+                    },
+                    "FAQ": {
+                    "0": "Gitaraçıya hansı sualları verməliyəm?",
+                    "1": "Onların ilham mənbəyi, texnikası, avadanlığı, mahnı yazma prosesi və yaddaqalan çıxışları haqqında soruşa bilərsiniz.",
+                    "2": "Hansı kredit kartlarını qəbul edirsiniz?",
+                    "3": "Biz Visa, MasterCard, American Express və Discover kartlarını qəbul edirik.",
+                    "4": "Pulun geri qaytarılması nə qədər çəkəcək?",
+                    "5": "Pulun geri qaytarılması adətən 5-7 iş günü çəkir, ödəniş metodunuzdan asılı olaraq.",
+                    "6": "Neçə növ gitara var?",
+                    "7": "Bir neçə növ gitara var, o cümlədən akustik, elektrik, bas, klassik və rezonator gitaraları."
+},
+"AboutSection1": {
+    "0": "Haqqımızda",
+    "1": "Ana Səhifə",
+    "2": "Haqqında",
+    "3": "Jbanez Haqqında",
+    "4": "Biz Ən Yaxşıyıq",
+    "5": "Gitara Mağazası",
+    "6": "Bəri",
+    "7": "Gitara, müxtəlif formalarda və ölçülərdə olan çox yönlü musiqi alətidir,",
+    "8": "musiqiçilərə geniş duyğular və üslublar ifadə etməyə imkan verir,",
+    "9": "folk musiqisində akustik gitaraların sakitləşdirici səslərindən tutmuş,",
+    "10": "rok və cazda elektrik gitaralarının coşqun rifflərinə qədər,",
+    "11": "onları dünyanın bir çox janrında dəyişməz bir alət halına gətirir.",
+    "12": "İllik Təcrübə",
+    "13": "Haqqımızda",
+    "14": "Sertifikatlaşdırılmış",
+    "15": "Ən Yaxşı Keyfiyyət",
+    "16": "Rəsmi Zəmanət",
+    "17": "Rəsmi İcazə",
+    "18": "Ən Yaxşı Keyfiyyət",
+    "19": "Məmnun Müştəri",
+    "20": "Ən Yaxşı Mükafatlar",
+    "21": "Zəmanət",
+    "22": "FAQ-lar",
+    "23": "Müştərilər",
+    "24": "Sorğular",
+    "25": "Mağazamız",
+    "26": "Əlaqə Məlumatı:",
+    "27": "Komandamız",
+    "28": "Bizim Ən Yaxşı",
+    "29": "Komanda",
+    "30": "Menecer",
+    "31": "İşçi",
+    "32": "Marketinq"
+},
+
+    "Login": {
+    "0": "Giriş",
+    "1": "E-poçt ünvanı",
+    "2": "Şifrə",
+    "3": "Giriş",
+    "4": "Hesabınız yoxdur?",
+    "5": "Qeydiyyatdan keçin"
+    },
+    
+        "Register": {
+        "0": "Qeydiyyat",
+        "1": "Tam ad",
+        "2": "Telefon nömrəsi",
+        "3": "E-poçt ünvanı",
+        "4": "Şifrə",
+        "5": "Şifrəni təsdiqlə",
+        "6": "Qeydiyyatdan keç",
+        "7": "Artıq hesabınız var?"
+        },
+        
+            "Account": {
+                "0":"Ana Səhifə",
+                "1": "Hesab",
+                "2": "Tam ad",
+                "3": "Telefon nömrəsi",
+                "4": "E-poçt",
+                "5": "Çıxış"
+            },
+            "ShopSectionOne":{
+                "0":"Mağaza",
+                "1":"Ev",
+                "2":"Mağaza",
+                "3":"Məhsul Kateqoriyaları"
+            },
+            "Basket": {
+            "0": "Səbət Səhifəsi",
+            "1": "Şəkil",
+            "2": "Başlıq",
+            "3": "Qiymət",
+            "4": "Miqdar",
+            "5": "Sil",
+            "6": "Ümumi qiymət:",
+            "7": "Hamısını təmizlə",
+            "8":"Səbətiniz boşdur"
+
+},
+            "Dashboard": {
+            "0": "İdarə paneli",
+            "1": "Əlavə et",
+            "2": "Şəkil",
+            "3": "Ad",
+            "4": "Qiymət",
+            "5": "Redaktə et",
+            "6": "Sil",
+            "7": "Redaktə et",
+            "8": "Sil",
+            "9": "Məhsullar mövcud deyil"
+},
+       "MyAccount": {
+    "0": "Admin hesabı",
+    "1": "E-poçt",
+    "2": "Şifrə",
+    "3": "Daxil ol"
+
+},
+"Wishlist":{
+    "0":"İstəklər siyahısı"
+},
+"CheckOut": {
+    "0": "Zəhmət olmasa, bütün ödəniş məlumatlarını doldurun",
+    "1": "Ödəniş",
+    "2": "Karta yazılan ad",
+    "3": "E-poçt ünvanı",
+    "5": "CVV kodu",
+    "6": "Son istifadə tarixi",
+    "10": "Ödənişi tamamlayın"
+},
+"SuccessPayment":{
+        "0": "Ödəniş Uğurlu",
+        "1": "Təbriklər! Ödənişiniz uğurla həyata keçirildi.",
+        "2": "Alış-verişə Davam Et"
+    },
+    "FAQ": {
+    "0": "Gitara ifaçısına hansı sualları verməliyəm?",
+    "1": "Onların ilham mənbəyi, texnikası, avadanlığı, mahnı yazma prosesi və yaddaqalan çıxışları haqqında soruşa bilərsiniz.",
+    "2": "Hansı kredit kartlarını qəbul edirsiniz?",
+    "3": "Biz Visa, MasterCard, American Express və Discover kartlarını qəbul edirik.",
+    "4": "Pul geri qaytarılana qədər nə qədər vaxt keçəcək?",
+    "5": "Pulun geri qaytarılması, ödəniş üsulunuza əsasən adətən 5-7 iş günü çəkir.",
+    "6": "Neçə növ gitara var?",
+    "7": "Bir neçə növ gitara var, bunlara akustik, elektrik, bas, klassik və rezanator gitaralar daxildir."
+}
+  }
+        
+        
+    
+    
+
+
+

@@ -1,0 +1,38 @@
+  @font-face {
+    .pirata-one-regular {
+      font-family: "Pirata One", system-ui;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    
+}
+ 
+     
+ 
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Yatay kaydırmayı kapat */
+  
+    font-family: "Pirata One", system-ui !important; 
+    font-size: 25px;
+    
+  }
+  
+
+
+.App {
+  text-align: center;
+  overflow-x: hidden; /* Yatay kaydırmayı kapat */
+}
+
+.content {
+  width: 200vw; /* Örnek olarak geniş bir içerik */
+  background-color: #61dafb;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
